@@ -1,0 +1,11 @@
+{
+  "name": "muta-os",
+  "owner": { "name": "Matias Cardoselli" },
+  "plugins": [
+    {
+      "name": "meta-ads-muta",
+      "source": "./plugins/meta-ads-muta",
+      "description": "Analisis tecnico multinivel de campanas de Meta Ads."
+    }
+  ]
+}
