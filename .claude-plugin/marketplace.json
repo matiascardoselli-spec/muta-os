@@ -16,6 +16,11 @@
       "name": "metodologia-fv",
       "source": "./plugins/metodologia-fv",
       "description": "Metodologia FV: investigacion de mercado, psicologia del consumidor y matriz de diversificacion de angulos."
+    },
+    {
+      "name": "branding-muta",
+      "source": "./plugins/branding-muta",
+      "description": "Proceso de branding: informe de investigacion de mercado de la categoria y hoja de ruta estrategica destilada de la reunion con el cliente."
     }
   ]
 }

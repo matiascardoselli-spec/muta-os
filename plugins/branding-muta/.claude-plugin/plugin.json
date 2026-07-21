@@ -1,0 +1,9 @@
+{
+  "name": "branding-muta",
+  "version": "1.0.0",
+  "description": "Proceso de branding de Muta Digital: investigacion de mercado de la categoria (informe entregable al cliente y base para el equipo de diseno) y hoja de ruta estrategica destilada de la reunion con el cliente. Documentos HTML con estetica Muta.",
+  "author": {
+    "name": "Muta Digital"
+  },
+  "keywords": ["branding", "investigacion de mercado", "identidad de marca", "hoja de ruta", "estrategia", "entregables"]
+}
