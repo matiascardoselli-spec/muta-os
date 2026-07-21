@@ -20,7 +20,7 @@
     {
       "name": "branding-muta",
       "source": "./plugins/branding-muta",
-      "description": "Proceso de branding: informe de investigacion de mercado de la categoria y hoja de ruta estrategica destilada de la reunion con el cliente."
+      "description": "Proceso de branding: informe de investigacion de mercado de la categoria en la que juega un cliente o prospecto."
     }
   ]
 }
