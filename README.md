@@ -7,6 +7,7 @@ Marketplace de skills de Claude Code de Muta Digital, para equipo y amigos.
 - **meta-ads-muta** — análisis técnico multinivel de campañas de Meta Ads (ROAS, CPL, CPM, fatiga, embudo).
 - **creacion-contenido** — redacción de contenido: guiones de video corto, fórmulas de copy, carruseles y laboratorio de hooks.
 - **metodologia-fv** — investigación de mercado (7 Maletas), psicología del consumidor y matriz de diversificación de ángulos. Basado en la metodología de Felipe Vergara.
+- **reuniones-muta** — reuniones convertidas en entregables: `resumen-prospecto` destila una reunión estratégica en un HTML con diseño Muta ("En Limpio") para mandarle al prospecto o cliente como resumen post-reunión.
 
 Los dos últimos se complementan: `metodologia-fv` define qué decir, `creacion-contenido` lo escribe. Cada skill funciona por separado.
 
@@ -18,6 +19,7 @@ Los dos últimos se complementan: `metodologia-fv` define qué decir, `creacion-
 /plugin install creacion-contenido@muta-os
 /plugin install metodologia-fv@muta-os
 /plugin install meta-ads-muta@muta-os
+/plugin install reuniones-muta@muta-os
 ```
 
 **App Claude (web/desktop/Cowork):**

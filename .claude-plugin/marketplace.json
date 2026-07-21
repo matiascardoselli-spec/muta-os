@@ -21,6 +21,11 @@
       "name": "branding-muta",
       "source": "./plugins/branding-muta",
       "description": "Proceso de branding: informe de investigacion de mercado de la categoria en la que juega un cliente o prospecto."
+    },
+    {
+      "name": "reuniones-muta",
+      "source": "./plugins/reuniones-muta",
+      "description": "Reuniones convertidas en entregables: resumen-prospecto destila la reunion estrategica en un HTML con diseno Muta ('En Limpio') listo para enviar."
     }
   ]
 }
