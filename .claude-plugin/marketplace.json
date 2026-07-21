@@ -6,6 +6,16 @@
       "name": "meta-ads-muta",
       "source": "./plugins/meta-ads-muta",
       "description": "Analisis tecnico multinivel de campanas de Meta Ads."
+    },
+    {
+      "name": "creacion-contenido",
+      "source": "./plugins/creacion-contenido",
+      "description": "Redaccion de contenido: guiones de video corto, formulas de copy, carruseles y laboratorio de hooks."
+    },
+    {
+      "name": "metodologia-fv",
+      "source": "./plugins/metodologia-fv",
+      "description": "Metodologia FV: investigacion de mercado, psicologia del consumidor y matriz de diversificacion de angulos."
     }
   ]
 }
