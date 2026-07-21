@@ -102,6 +102,7 @@ Salida de cada agente: un `.md` en `research/` con fuente linkeada por afirmaci�
 ## Verificación antes de cerrar
 
 - Grep anti-plan sobre el entregable: "recomendamos", "deben", "hagan", "paso", "plan de".
+- Las métricas del resumen ejecutivo (cantidad de fuentes, casos, jugadores mapeados, gaps) se CUENTAN sobre el documento final (ej. `grep -o 'https://[^)"]*' | sort -u | wc -l` para fuentes), nunca se estiman ni se redondean para arriba.
 - Grep sanitización: nombres de clientes de Muta, montos internos, nombres propios de reuniones.
 - Toda cifra tiene fuente; spot-check de que las webs citadas abren.
 - Sin guión largo; ortografía y tildes.
